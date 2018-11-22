@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'I felt that as to fortune in all probability he might do much better and that as to a rational companion or useful helpmate he could not do worse.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'And God said unto Jacob Arise go up to Bethel and dwell there and make there an altar unto God that appeared unto thee when thou fleddest from the face of Esau thy brother.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Mary thanked her and she was glad to take the goat home again as she was very fond of it.'      
 };
 
 function status(statusText) {
